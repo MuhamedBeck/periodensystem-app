@@ -1,0 +1,2126 @@
+[
+ {
+   "Ordnungszahl": 1,
+   "Symbol": "H",
+   "Name": "Wasserstoff",
+   "Atommasse": 208.9858,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Übergangsmetall",
+   "Siedepunkt (K)": 2234.13,
+   "Schmelzpunkt (K)": 310.02,
+   "Elektronegativität": 2.03,
+   "Dichte (g": {
+      "cm³)": 21.2197
+   },
+   "Entdeckt": "vorzeitlich bekannt",
+   "Oxidationszahlen": "1",
+   "Gruppe": 1,
+   "Periode": 1
+},
+ {
+   "Ordnungszahl": 2,
+   "Symbol": "He",
+   "Name": "Helium",
+   "Atommasse": 244.5542,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Halogen",
+   "Siedepunkt (K)": 5919.03,
+   "Schmelzpunkt (K)": 106.44,
+   "Elektronegativität": 3.05,
+   "Dichte (g": {
+      "cm³)": 2.8121
+   },
+   "Entdeckt": "Marie Curie (1898)",
+   "Oxidationszahlen": "2",
+   "Gruppe": 18,
+   "Periode": 1
+},
+ {
+   "Ordnungszahl": 3,
+   "Symbol": "Li",
+   "Name": "Lithium",
+   "Atommasse": 77.5613,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Edelgas",
+   "Siedepunkt (K)": 3253.06,
+   "Schmelzpunkt (K)": 3944.43,
+   "Elektronegativität": 2.32,
+   "Dichte (g": {
+      "cm³)": 15.5158
+   },
+   "Entdeckt": "Glenn T. Seaborg (1944)",
+   "Oxidationszahlen": "2, 3",
+   "Gruppe": 1,
+   "Periode": 2
+},
+ {
+   "Ordnungszahl": 4,
+   "Symbol": "Be",
+   "Name": "Beryllium",
+   "Atommasse": 64.8228,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Metall",
+   "Siedepunkt (K)": 5835.09,
+   "Schmelzpunkt (K)": 1829.33,
+   "Elektronegativität": 1.6,
+   "Dichte (g": {
+      "cm³)": 6.9244
+   },
+   "Entdeckt": "Lawrence Berkeley Lab (1952)",
+   "Oxidationszahlen": "3, 4, 5",
+   "Gruppe": 2,
+   "Periode": 2
+},
+ {
+   "Ordnungszahl": 5,
+   "Symbol": "B",
+   "Name": "Bor",
+   "Atommasse": 3.4409,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Erdalkalimetall",
+   "Siedepunkt (K)": 5978.77,
+   "Schmelzpunkt (K)": 2666.2,
+   "Elektronegativität": 3.5,
+   "Dichte (g": {
+      "cm³)": 14.1145
+   },
+   "Entdeckt": "Glenn T. Seaborg (1944)",
+   "Oxidationszahlen": "1",
+   "Gruppe": 13,
+   "Periode": 2
+},
+ {
+   "Ordnungszahl": 6,
+   "Symbol": "C",
+   "Name": "Kohlenstoff",
+   "Atommasse": 192.6929,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Alkalimetall",
+   "Siedepunkt (K)": 5687.6,
+   "Schmelzpunkt (K)": 1373.82,
+   "Elektronegativität": 3.39,
+   "Dichte (g": {
+      "cm³)": 5.8775
+   },
+   "Entdeckt": "vorzeitlich bekannt",
+   "Oxidationszahlen": "-1, 0, 1",
+   "Gruppe": 14,
+   "Periode": 2
+},
+ {
+   "Ordnungszahl": 7,
+   "Symbol": "N",
+   "Name": "Stickstoff",
+   "Atommasse": 106.2741,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Metall",
+   "Siedepunkt (K)": 3712.54,
+   "Schmelzpunkt (K)": 3085.71,
+   "Elektronegativität": 2.1,
+   "Dichte (g": {
+      "cm³)": 8.9211
+   },
+   "Entdeckt": "vorzeitlich bekannt",
+   "Oxidationszahlen": "-2",
+   "Gruppe": 15,
+   "Periode": 2
+},
+ {
+   "Ordnungszahl": 8,
+   "Symbol": "O",
+   "Name": "Sauerstoff",
+   "Atommasse": 72.587,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Übergangsmetall",
+   "Siedepunkt (K)": 186.85,
+   "Schmelzpunkt (K)": 2060.59,
+   "Elektronegativität": 1,
+   "Dichte (g": {
+      "cm³)": 13.0324
+   },
+   "Entdeckt": "Glenn T. Seaborg (1944)",
+   "Oxidationszahlen": "-1",
+   "Gruppe": 16,
+   "Periode": 2
+},
+ {
+   "Ordnungszahl": 9,
+   "Symbol": "F",
+   "Name": "Fluor",
+   "Atommasse": 191.8706,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Halbmetall",
+   "Siedepunkt (K)": 2450.43,
+   "Schmelzpunkt (K)": 3563.71,
+   "Elektronegativität": 0.98,
+   "Dichte (g": {
+      "cm³)": 3.9307
+   },
+   "Entdeckt": "Glenn T. Seaborg (1944)",
+   "Oxidationszahlen": "-1, 0, 1",
+   "Gruppe": 17,
+   "Periode": 2
+},
+ {
+   "Ordnungszahl": 10,
+   "Symbol": "Ne",
+   "Name": "Neon",
+   "Atommasse": 171.369,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Übergangsmetall",
+   "Siedepunkt (K)": 5601.07,
+   "Schmelzpunkt (K)": 3372.72,
+   "Elektronegativität": 1.74,
+   "Dichte (g": {
+      "cm³)": 1.9842
+   },
+   "Entdeckt": "vorzeitlich bekannt",
+   "Oxidationszahlen": "3, 4, 5",
+   "Gruppe": 18,
+   "Periode": 2
+},
+ {
+   "Ordnungszahl": 11,
+   "Symbol": "Na",
+   "Name": "Natrium",
+   "Atommasse": 151.0735,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Metall",
+   "Siedepunkt (K)": 3681.29,
+   "Schmelzpunkt (K)": 1736.4,
+   "Elektronegativität": 1.93,
+   "Dichte (g": {
+      "cm³)": 4.2197
+   },
+   "Entdeckt": "Lawrence Berkeley Lab (1952)",
+   "Oxidationszahlen": "3, 4, 5",
+   "Gruppe": 1,
+   "Periode": 3
+},
+ {
+   "Ordnungszahl": 12,
+   "Symbol": "Mg",
+   "Name": "Magnesium",
+   "Atommasse": 116.8665,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Nichtmetall",
+   "Siedepunkt (K)": 5971.6,
+   "Schmelzpunkt (K)": 1157.96,
+   "Elektronegativität": 2.54,
+   "Dichte (g": {
+      "cm³)": 10.2208
+   },
+   "Entdeckt": "Glenn T. Seaborg (1944)",
+   "Oxidationszahlen": "4",
+   "Gruppe": 2,
+   "Periode": 3
+},
+ {
+   "Ordnungszahl": 13,
+   "Symbol": "Al",
+   "Name": "Aluminium",
+   "Atommasse": 49.7393,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Erdalkalimetall",
+   "Siedepunkt (K)": 2105.24,
+   "Schmelzpunkt (K)": 3673.04,
+   "Elektronegativität": 0.62,
+   "Dichte (g": {
+      "cm³)": 4.584
+   },
+   "Entdeckt": "vorzeitlich bekannt",
+   "Oxidationszahlen": "4",
+   "Gruppe": 13,
+   "Periode": 3
+},
+ {
+   "Ordnungszahl": 14,
+   "Symbol": "Si",
+   "Name": "Silicium",
+   "Atommasse": 220.4359,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Alkalimetall",
+   "Siedepunkt (K)": 902.69,
+   "Schmelzpunkt (K)": 1455.21,
+   "Elektronegativität": 1.81,
+   "Dichte (g": {
+      "cm³)": 19.5473
+   },
+   "Entdeckt": "J. J. Berzelius (1828)",
+   "Oxidationszahlen": "-1",
+   "Gruppe": 14,
+   "Periode": 3
+},
+ {
+   "Ordnungszahl": 15,
+   "Symbol": "P",
+   "Name": "Phosphor",
+   "Atommasse": 264.655,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Übergangsmetall",
+   "Siedepunkt (K)": 4936.31,
+   "Schmelzpunkt (K)": 1360.29,
+   "Elektronegativität": 2.1,
+   "Dichte (g": {
+      "cm³)": 9.5335
+   },
+   "Entdeckt": "Lawrence Berkeley Lab (1952)",
+   "Oxidationszahlen": "2",
+   "Gruppe": 15,
+   "Periode": 3
+},
+ {
+   "Ordnungszahl": 16,
+   "Symbol": "S",
+   "Name": "Schwefel",
+   "Atommasse": 160.0973,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Erdalkalimetall",
+   "Siedepunkt (K)": 830.71,
+   "Schmelzpunkt (K)": 2390.12,
+   "Elektronegativität": 2.83,
+   "Dichte (g": {
+      "cm³)": 0.2082
+   },
+   "Entdeckt": "J. J. Berzelius (1828)",
+   "Oxidationszahlen": "3",
+   "Gruppe": 16,
+   "Periode": 3
+},
+ {
+   "Ordnungszahl": 17,
+   "Symbol": "Cl",
+   "Name": "Chlor",
+   "Atommasse": 134.3901,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Edelgas",
+   "Siedepunkt (K)": 1649.62,
+   "Schmelzpunkt (K)": 1185.48,
+   "Elektronegativität": 3.76,
+   "Dichte (g": {
+      "cm³)": 8.9796
+   },
+   "Entdeckt": "J. J. Berzelius (1828)",
+   "Oxidationszahlen": "1",
+   "Gruppe": 17,
+   "Periode": 3
+},
+ {
+   "Ordnungszahl": 18,
+   "Symbol": "Ar",
+   "Name": "Argon",
+   "Atommasse": 211.4012,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Halogen",
+   "Siedepunkt (K)": 1464.22,
+   "Schmelzpunkt (K)": 3119.15,
+   "Elektronegativität": 3.34,
+   "Dichte (g": {
+      "cm³)": 9.511
+   },
+   "Entdeckt": "Antike",
+   "Oxidationszahlen": "2, 3",
+   "Gruppe": 18,
+   "Periode": 3
+},
+ {
+   "Ordnungszahl": 19,
+   "Symbol": "K",
+   "Name": "Kalium",
+   "Atommasse": 88.5772,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Erdalkalimetall",
+   "Siedepunkt (K)": 3676.67,
+   "Schmelzpunkt (K)": 2604.2,
+   "Elektronegativität": 2.55,
+   "Dichte (g": {
+      "cm³)": 8.2723
+   },
+   "Entdeckt": "Antike",
+   "Oxidationszahlen": "3, 4, 5",
+   "Gruppe": 1,
+   "Periode": 4
+},
+ {
+   "Ordnungszahl": 20,
+   "Symbol": "Ca",
+   "Name": "Calcium",
+   "Atommasse": 110.575,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Halbmetall",
+   "Siedepunkt (K)": 3086.7,
+   "Schmelzpunkt (K)": 3877.05,
+   "Elektronegativität": 2.32,
+   "Dichte (g": {
+      "cm³)": 12.9913
+   },
+   "Entdeckt": "Marie Curie (1898)",
+   "Oxidationszahlen": "3",
+   "Gruppe": 2,
+   "Periode": 4
+},
+ {
+   "Ordnungszahl": 21,
+   "Symbol": "Sc",
+   "Name": "Scandium",
+   "Atommasse": 185.8974,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Erdalkalimetall",
+   "Siedepunkt (K)": 2068.58,
+   "Schmelzpunkt (K)": 2550.9,
+   "Elektronegativität": 3.78,
+   "Dichte (g": {
+      "cm³)": 18.3374
+   },
+   "Entdeckt": "Marie Curie (1898)",
+   "Oxidationszahlen": "-1",
+   "Gruppe": 3,
+   "Periode": 4
+},
+ {
+   "Ordnungszahl": 22,
+   "Symbol": "Ti",
+   "Name": "Titan",
+   "Atommasse": 287.9492,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Metall",
+   "Siedepunkt (K)": 708.06,
+   "Schmelzpunkt (K)": 3902.57,
+   "Elektronegativität": 1.1,
+   "Dichte (g": {
+      "cm³)": 18.1277
+   },
+   "Entdeckt": "Antike",
+   "Oxidationszahlen": "2",
+   "Gruppe": 4,
+   "Periode": 4
+},
+ {
+   "Ordnungszahl": 23,
+   "Symbol": "V",
+   "Name": "Vanadium",
+   "Atommasse": 234.3192,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Erdalkalimetall",
+   "Siedepunkt (K)": 5783.89,
+   "Schmelzpunkt (K)": 2879.94,
+   "Elektronegativität": 0.64,
+   "Dichte (g": {
+      "cm³)": 18.2498
+   },
+   "Entdeckt": "Glenn T. Seaborg (1944)",
+   "Oxidationszahlen": "-1, 0, 1",
+   "Gruppe": 5,
+   "Periode": 4
+},
+ {
+   "Ordnungszahl": 24,
+   "Symbol": "Cr",
+   "Name": "Chrom",
+   "Atommasse": 128.7744,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Übergangsmetall",
+   "Siedepunkt (K)": 1724.21,
+   "Schmelzpunkt (K)": 2795.88,
+   "Elektronegativität": 3.78,
+   "Dichte (g": {
+      "cm³)": 19.3131
+   },
+   "Entdeckt": "Glenn T. Seaborg (1944)",
+   "Oxidationszahlen": "-2",
+   "Gruppe": 6,
+   "Periode": 4
+},
+ {
+   "Ordnungszahl": 25,
+   "Symbol": "Mn",
+   "Name": "Mangan",
+   "Atommasse": 46.5083,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Übergangsmetall",
+   "Siedepunkt (K)": 1574.31,
+   "Schmelzpunkt (K)": 2052.12,
+   "Elektronegativität": 3.06,
+   "Dichte (g": {
+      "cm³)": 11.8722
+   },
+   "Entdeckt": "J. J. Berzelius (1828)",
+   "Oxidationszahlen": "2, 3",
+   "Gruppe": 7,
+   "Periode": 4
+},
+ {
+   "Ordnungszahl": 26,
+   "Symbol": "Fe",
+   "Name": "Eisen",
+   "Atommasse": 68.8848,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Alkalimetall",
+   "Siedepunkt (K)": 2323.32,
+   "Schmelzpunkt (K)": 658.53,
+   "Elektronegativität": 0.65,
+   "Dichte (g": {
+      "cm³)": 8.9521
+   },
+   "Entdeckt": "Lawrence Berkeley Lab (1952)",
+   "Oxidationszahlen": "2",
+   "Gruppe": 8,
+   "Periode": 4
+},
+ {
+   "Ordnungszahl": 27,
+   "Symbol": "Co",
+   "Name": "Cobalt",
+   "Atommasse": 42.3482,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Alkalimetall",
+   "Siedepunkt (K)": 653.81,
+   "Schmelzpunkt (K)": 3648.32,
+   "Elektronegativität": 1.84,
+   "Dichte (g": {
+      "cm³)": 11.7456
+   },
+   "Entdeckt": "Glenn T. Seaborg (1944)",
+   "Oxidationszahlen": "-1, 0, 1",
+   "Gruppe": 9,
+   "Periode": 4
+},
+ {
+   "Ordnungszahl": 28,
+   "Symbol": "Ni",
+   "Name": "Nickel",
+   "Atommasse": 225.2868,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Erdalkalimetall",
+   "Siedepunkt (K)": 4311.03,
+   "Schmelzpunkt (K)": 2248.71,
+   "Elektronegativität": 3.72,
+   "Dichte (g": {
+      "cm³)": 2.2925
+   },
+   "Entdeckt": "vorzeitlich bekannt",
+   "Oxidationszahlen": "-1, 0, 1",
+   "Gruppe": 10,
+   "Periode": 4
+},
+ {
+   "Ordnungszahl": 29,
+   "Symbol": "Cu",
+   "Name": "Kupfer",
+   "Atommasse": 195.9935,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Erdalkalimetall",
+   "Siedepunkt (K)": 5521.37,
+   "Schmelzpunkt (K)": 70.73,
+   "Elektronegativität": 1.88,
+   "Dichte (g": {
+      "cm³)": 0.0279
+   },
+   "Entdeckt": "Antike",
+   "Oxidationszahlen": "4",
+   "Gruppe": 11,
+   "Periode": 4
+},
+ {
+   "Ordnungszahl": 30,
+   "Symbol": "Zn",
+   "Name": "Zink",
+   "Atommasse": 22.2215,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Edelgas",
+   "Siedepunkt (K)": 704.26,
+   "Schmelzpunkt (K)": 3049.24,
+   "Elektronegativität": 2.45,
+   "Dichte (g": {
+      "cm³)": 17.4575
+   },
+   "Entdeckt": "vorzeitlich bekannt",
+   "Oxidationszahlen": "2, 3",
+   "Gruppe": 12,
+   "Periode": 4
+},
+ {
+   "Ordnungszahl": 31,
+   "Symbol": "Ga",
+   "Name": "Gallium",
+   "Atommasse": 225.7554,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Nichtmetall",
+   "Siedepunkt (K)": 3558.07,
+   "Schmelzpunkt (K)": 2575.88,
+   "Elektronegativität": 3.99,
+   "Dichte (g": {
+      "cm³)": 6.3283
+   },
+   "Entdeckt": "Marie Curie (1898)",
+   "Oxidationszahlen": "2, 3",
+   "Gruppe": 13,
+   "Periode": 4
+},
+ {
+   "Ordnungszahl": 32,
+   "Symbol": "Ge",
+   "Name": "Germanium",
+   "Atommasse": 200.33,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Übergangsmetall",
+   "Siedepunkt (K)": 598.19,
+   "Schmelzpunkt (K)": 300.2,
+   "Elektronegativität": 3.64,
+   "Dichte (g": {
+      "cm³)": 0.6034
+   },
+   "Entdeckt": "Lawrence Berkeley Lab (1952)",
+   "Oxidationszahlen": "2, 3",
+   "Gruppe": 14,
+   "Periode": 4
+},
+ {
+   "Ordnungszahl": 33,
+   "Symbol": "As",
+   "Name": "Arsen",
+   "Atommasse": 51.6779,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Metall",
+   "Siedepunkt (K)": 451.24,
+   "Schmelzpunkt (K)": 1592.84,
+   "Elektronegativität": 1.2,
+   "Dichte (g": {
+      "cm³)": 14.9205
+   },
+   "Entdeckt": "Lawrence Berkeley Lab (1952)",
+   "Oxidationszahlen": "-2",
+   "Gruppe": 15,
+   "Periode": 4
+},
+ {
+   "Ordnungszahl": 34,
+   "Symbol": "Se",
+   "Name": "Selen",
+   "Atommasse": 271.8839,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Edelgas",
+   "Siedepunkt (K)": 2335.68,
+   "Schmelzpunkt (K)": 3522.39,
+   "Elektronegativität": 1.97,
+   "Dichte (g": {
+      "cm³)": 7.7089
+   },
+   "Entdeckt": "Antike",
+   "Oxidationszahlen": "3, 4, 5",
+   "Gruppe": 16,
+   "Periode": 4
+},
+ {
+   "Ordnungszahl": 35,
+   "Symbol": "Br",
+   "Name": "Brom",
+   "Atommasse": 238.5558,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Nichtmetall",
+   "Siedepunkt (K)": 1824.85,
+   "Schmelzpunkt (K)": 2967.83,
+   "Elektronegativität": 1.68,
+   "Dichte (g": {
+      "cm³)": 6.6372
+   },
+   "Entdeckt": "vorzeitlich bekannt",
+   "Oxidationszahlen": "1, 2",
+   "Gruppe": 17,
+   "Periode": 4
+},
+ {
+   "Ordnungszahl": 36,
+   "Symbol": "Kr",
+   "Name": "Krypton",
+   "Atommasse": 271.4506,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Metall",
+   "Siedepunkt (K)": 3162.25,
+   "Schmelzpunkt (K)": 3640.87,
+   "Elektronegativität": 0.73,
+   "Dichte (g": {
+      "cm³)": 15.1914
+   },
+   "Entdeckt": "Lawrence Berkeley Lab (1952)",
+   "Oxidationszahlen": "4",
+   "Gruppe": 18,
+   "Periode": 4
+},
+ {
+   "Ordnungszahl": 37,
+   "Symbol": "Rb",
+   "Name": "Rubidium",
+   "Atommasse": 25.5928,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Edelgas",
+   "Siedepunkt (K)": 4159.07,
+   "Schmelzpunkt (K)": 3837.07,
+   "Elektronegativität": 3.92,
+   "Dichte (g": {
+      "cm³)": 5.8361
+   },
+   "Entdeckt": "Lawrence Berkeley Lab (1952)",
+   "Oxidationszahlen": "1, 2",
+   "Gruppe": 1,
+   "Periode": 5
+},
+ {
+   "Ordnungszahl": 38,
+   "Symbol": "Sr",
+   "Name": "Strontium",
+   "Atommasse": 69.9773,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Metall",
+   "Siedepunkt (K)": 4097,
+   "Schmelzpunkt (K)": 3523.56,
+   "Elektronegativität": 1.1,
+   "Dichte (g": {
+      "cm³)": 0.0037
+   },
+   "Entdeckt": "Antike",
+   "Oxidationszahlen": "-2",
+   "Gruppe": 2,
+   "Periode": 5
+},
+ {
+   "Ordnungszahl": 39,
+   "Symbol": "Y",
+   "Name": "Yttrium",
+   "Atommasse": 276.2846,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Metall",
+   "Siedepunkt (K)": 5918.48,
+   "Schmelzpunkt (K)": 1236.95,
+   "Elektronegativität": 3.68,
+   "Dichte (g": {
+      "cm³)": 16.1556
+   },
+   "Entdeckt": "Glenn T. Seaborg (1944)",
+   "Oxidationszahlen": "3",
+   "Gruppe": 3,
+   "Periode": 5
+},
+ {
+   "Ordnungszahl": 40,
+   "Symbol": "Zr",
+   "Name": "Zirkonium",
+   "Atommasse": 298.9887,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Metall",
+   "Siedepunkt (K)": 2314.8,
+   "Schmelzpunkt (K)": 1161.13,
+   "Elektronegativität": 3.85,
+   "Dichte (g": {
+      "cm³)": 4.8532
+   },
+   "Entdeckt": "Antike",
+   "Oxidationszahlen": "-1",
+   "Gruppe": 4,
+   "Periode": 5
+},
+ {
+   "Ordnungszahl": 41,
+   "Symbol": "Nb",
+   "Name": "Niob",
+   "Atommasse": 105.1891,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Metall",
+   "Siedepunkt (K)": 215.46,
+   "Schmelzpunkt (K)": 2107.25,
+   "Elektronegativität": 1.67,
+   "Dichte (g": {
+      "cm³)": 2.3032
+   },
+   "Entdeckt": "Glenn T. Seaborg (1944)",
+   "Oxidationszahlen": "1, 2",
+   "Gruppe": 5,
+   "Periode": 5
+},
+ {
+   "Ordnungszahl": 42,
+   "Symbol": "Mo",
+   "Name": "Molybdän",
+   "Atommasse": 33.6138,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Erdalkalimetall",
+   "Siedepunkt (K)": 4179.7,
+   "Schmelzpunkt (K)": 2437.41,
+   "Elektronegativität": 2.76,
+   "Dichte (g": {
+      "cm³)": 2.6031
+   },
+   "Entdeckt": "Antike",
+   "Oxidationszahlen": "1",
+   "Gruppe": 6,
+   "Periode": 5
+},
+ {
+   "Ordnungszahl": 43,
+   "Symbol": "Tc",
+   "Name": "Technetium",
+   "Atommasse": 167.4646,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Erdalkalimetall",
+   "Siedepunkt (K)": 3649.4,
+   "Schmelzpunkt (K)": 1022.55,
+   "Elektronegativität": 3.71,
+   "Dichte (g": {
+      "cm³)": 15.516
+   },
+   "Entdeckt": "Marie Curie (1898)",
+   "Oxidationszahlen": "-1",
+   "Gruppe": 7,
+   "Periode": 5
+},
+ {
+   "Ordnungszahl": 44,
+   "Symbol": "Ru",
+   "Name": "Ruthenium",
+   "Atommasse": 275.7004,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Metall",
+   "Siedepunkt (K)": 3889.28,
+   "Schmelzpunkt (K)": 1452.98,
+   "Elektronegativität": 1.35,
+   "Dichte (g": {
+      "cm³)": 7.9199
+   },
+   "Entdeckt": "J. J. Berzelius (1828)",
+   "Oxidationszahlen": "1",
+   "Gruppe": 8,
+   "Periode": 5
+},
+ {
+   "Ordnungszahl": 45,
+   "Symbol": "Rh",
+   "Name": "Rhodium",
+   "Atommasse": 191.8931,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Alkalimetall",
+   "Siedepunkt (K)": 5219.53,
+   "Schmelzpunkt (K)": 280.56,
+   "Elektronegativität": 3.65,
+   "Dichte (g": {
+      "cm³)": 10.5452
+   },
+   "Entdeckt": "Glenn T. Seaborg (1944)",
+   "Oxidationszahlen": "-2",
+   "Gruppe": 9,
+   "Periode": 5
+},
+ {
+   "Ordnungszahl": 46,
+   "Symbol": "Pd",
+   "Name": "Palladium",
+   "Atommasse": 104.3424,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Nichtmetall",
+   "Siedepunkt (K)": 5884.78,
+   "Schmelzpunkt (K)": 3884.44,
+   "Elektronegativität": 3.64,
+   "Dichte (g": {
+      "cm³)": 6.7066
+   },
+   "Entdeckt": "J. J. Berzelius (1828)",
+   "Oxidationszahlen": "-1, 0, 1",
+   "Gruppe": 10,
+   "Periode": 5
+},
+ {
+   "Ordnungszahl": 47,
+   "Symbol": "Ag",
+   "Name": "Silber",
+   "Atommasse": 220.8008,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Metall",
+   "Siedepunkt (K)": 3957.2,
+   "Schmelzpunkt (K)": 2871.27,
+   "Elektronegativität": 3.13,
+   "Dichte (g": {
+      "cm³)": 22.3514
+   },
+   "Entdeckt": "Marie Curie (1898)",
+   "Oxidationszahlen": "3",
+   "Gruppe": 11,
+   "Periode": 5
+},
+ {
+   "Ordnungszahl": 48,
+   "Symbol": "Cd",
+   "Name": "Cadmium",
+   "Atommasse": 11.6075,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Alkalimetall",
+   "Siedepunkt (K)": 4133.33,
+   "Schmelzpunkt (K)": 359.95,
+   "Elektronegativität": 4,
+   "Dichte (g": {
+      "cm³)": 19.4726
+   },
+   "Entdeckt": "Glenn T. Seaborg (1944)",
+   "Oxidationszahlen": "2, 3",
+   "Gruppe": 12,
+   "Periode": 5
+},
+ {
+   "Ordnungszahl": 49,
+   "Symbol": "In",
+   "Name": "Indium",
+   "Atommasse": 82.7579,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Halogen",
+   "Siedepunkt (K)": 3058.35,
+   "Schmelzpunkt (K)": 2413.76,
+   "Elektronegativität": 2.18,
+   "Dichte (g": {
+      "cm³)": 3.0322
+   },
+   "Entdeckt": "Glenn T. Seaborg (1944)",
+   "Oxidationszahlen": "2, 3",
+   "Gruppe": 13,
+   "Periode": 5
+},
+ {
+   "Ordnungszahl": 50,
+   "Symbol": "Sn",
+   "Name": "Zinn",
+   "Atommasse": 40.8635,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Metall",
+   "Siedepunkt (K)": 1735.03,
+   "Schmelzpunkt (K)": 2708.1,
+   "Elektronegativität": 3.68,
+   "Dichte (g": {
+      "cm³)": 19.1587
+   },
+   "Entdeckt": "Glenn T. Seaborg (1944)",
+   "Oxidationszahlen": "1, 2",
+   "Gruppe": 14,
+   "Periode": 5
+},
+ {
+   "Ordnungszahl": 51,
+   "Symbol": "Sb",
+   "Name": "Antimon",
+   "Atommasse": 159.2827,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Edelgas",
+   "Siedepunkt (K)": 896.38,
+   "Schmelzpunkt (K)": 1700.96,
+   "Elektronegativität": 0.72,
+   "Dichte (g": {
+      "cm³)": 17.1753
+   },
+   "Entdeckt": "Marie Curie (1898)",
+   "Oxidationszahlen": "-1",
+   "Gruppe": 15,
+   "Periode": 5
+},
+ {
+   "Ordnungszahl": 52,
+   "Symbol": "Te",
+   "Name": "Tellur",
+   "Atommasse": 271.2614,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Übergangsmetall",
+   "Siedepunkt (K)": 2297.76,
+   "Schmelzpunkt (K)": 108.63,
+   "Elektronegativität": 2.25,
+   "Dichte (g": {
+      "cm³)": 22.2064
+   },
+   "Entdeckt": "vorzeitlich bekannt",
+   "Oxidationszahlen": "1",
+   "Gruppe": 16,
+   "Periode": 5
+},
+ {
+   "Ordnungszahl": 53,
+   "Symbol": "I",
+   "Name": "Iod",
+   "Atommasse": 223.7723,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Nichtmetall",
+   "Siedepunkt (K)": 5108.01,
+   "Schmelzpunkt (K)": 2431.5,
+   "Elektronegativität": 0.59,
+   "Dichte (g": {
+      "cm³)": 15.5567
+   },
+   "Entdeckt": "Antike",
+   "Oxidationszahlen": "2",
+   "Gruppe": 17,
+   "Periode": 5
+},
+ {
+   "Ordnungszahl": 54,
+   "Symbol": "Xe",
+   "Name": "Xenon",
+   "Atommasse": 43.9308,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Alkalimetall",
+   "Siedepunkt (K)": 3767.69,
+   "Schmelzpunkt (K)": 700.9,
+   "Elektronegativität": 1.62,
+   "Dichte (g": {
+      "cm³)": 13.6688
+   },
+   "Entdeckt": "Marie Curie (1898)",
+   "Oxidationszahlen": "3",
+   "Gruppe": 18,
+   "Periode": 5
+},
+ {
+   "Ordnungszahl": 55,
+   "Symbol": "Cs",
+   "Name": "Caesium",
+   "Atommasse": 10.8037,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Metall",
+   "Siedepunkt (K)": 2368.31,
+   "Schmelzpunkt (K)": 709.45,
+   "Elektronegativität": 3.5,
+   "Dichte (g": {
+      "cm³)": 10.0906
+   },
+   "Entdeckt": "Antike",
+   "Oxidationszahlen": "-1",
+   "Gruppe": 1,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 56,
+   "Symbol": "Ba",
+   "Name": "Barium",
+   "Atommasse": 277.1387,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Übergangsmetall",
+   "Siedepunkt (K)": 463.93,
+   "Schmelzpunkt (K)": 35.96,
+   "Elektronegativität": 2.65,
+   "Dichte (g": {
+      "cm³)": 17.4342
+   },
+   "Entdeckt": "J. J. Berzelius (1828)",
+   "Oxidationszahlen": "3",
+   "Gruppe": 2,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 57,
+   "Symbol": "La",
+   "Name": "Lanthan",
+   "Atommasse": 267.793,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Halbmetall",
+   "Siedepunkt (K)": 3008.72,
+   "Schmelzpunkt (K)": 1093.93,
+   "Elektronegativität": 1.76,
+   "Dichte (g": {
+      "cm³)": 19.3914
+   },
+   "Entdeckt": "Glenn T. Seaborg (1944)",
+   "Oxidationszahlen": "-1",
+   "Gruppe": 3,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 58,
+   "Symbol": "Ce",
+   "Name": "Cer",
+   "Atommasse": 234.742,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Edelgas",
+   "Siedepunkt (K)": 4200.74,
+   "Schmelzpunkt (K)": 2770.33,
+   "Elektronegativität": 3.53,
+   "Dichte (g": {
+      "cm³)": 7.482
+   },
+   "Entdeckt": "vorzeitlich bekannt",
+   "Oxidationszahlen": "2",
+   "Gruppe": null,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 59,
+   "Symbol": "Pr",
+   "Name": "Praseodym",
+   "Atommasse": 182.9362,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Erdalkalimetall",
+   "Siedepunkt (K)": 5886.86,
+   "Schmelzpunkt (K)": 426.32,
+   "Elektronegativität": 2.03,
+   "Dichte (g": {
+      "cm³)": 2.0066
+   },
+   "Entdeckt": "Antike",
+   "Oxidationszahlen": "1, 2",
+   "Gruppe": null,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 60,
+   "Symbol": "Nd",
+   "Name": "Neodym",
+   "Atommasse": 33.896,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Erdalkalimetall",
+   "Siedepunkt (K)": 3748.3,
+   "Schmelzpunkt (K)": 161.64,
+   "Elektronegativität": 3.74,
+   "Dichte (g": {
+      "cm³)": 18.6845
+   },
+   "Entdeckt": "Antike",
+   "Oxidationszahlen": "2, 3",
+   "Gruppe": null,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 61,
+   "Symbol": "Pm",
+   "Name": "Promethium",
+   "Atommasse": 248.77,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Übergangsmetall",
+   "Siedepunkt (K)": 4107.28,
+   "Schmelzpunkt (K)": 1180.04,
+   "Elektronegativität": 1.14,
+   "Dichte (g": {
+      "cm³)": 19.9109
+   },
+   "Entdeckt": "Antike",
+   "Oxidationszahlen": "3, 4, 5",
+   "Gruppe": null,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 62,
+   "Symbol": "Sm",
+   "Name": "Samarium",
+   "Atommasse": 139.474,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Nichtmetall",
+   "Siedepunkt (K)": 361.52,
+   "Schmelzpunkt (K)": 1615.23,
+   "Elektronegativität": 1.5,
+   "Dichte (g": {
+      "cm³)": 16.2818
+   },
+   "Entdeckt": "Lawrence Berkeley Lab (1952)",
+   "Oxidationszahlen": "-1",
+   "Gruppe": null,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 63,
+   "Symbol": "Eu",
+   "Name": "Europium",
+   "Atommasse": 212.5513,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Metall",
+   "Siedepunkt (K)": 4044.59,
+   "Schmelzpunkt (K)": 740.39,
+   "Elektronegativität": 2.06,
+   "Dichte (g": {
+      "cm³)": 17.8788
+   },
+   "Entdeckt": "Lawrence Berkeley Lab (1952)",
+   "Oxidationszahlen": "1, 2",
+   "Gruppe": null,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 64,
+   "Symbol": "Gd",
+   "Name": "Gadolinium",
+   "Atommasse": 23.5829,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Übergangsmetall",
+   "Siedepunkt (K)": 442.19,
+   "Schmelzpunkt (K)": 3536.8,
+   "Elektronegativität": 3.75,
+   "Dichte (g": {
+      "cm³)": 0.0964
+   },
+   "Entdeckt": "Glenn T. Seaborg (1944)",
+   "Oxidationszahlen": "1",
+   "Gruppe": null,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 65,
+   "Symbol": "Tb",
+   "Name": "Terbium",
+   "Atommasse": 277.8495,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Nichtmetall",
+   "Siedepunkt (K)": 5336,
+   "Schmelzpunkt (K)": 1707.59,
+   "Elektronegativität": 3.87,
+   "Dichte (g": {
+      "cm³)": 5.4836
+   },
+   "Entdeckt": "Lawrence Berkeley Lab (1952)",
+   "Oxidationszahlen": "-1, 0, 1",
+   "Gruppe": null,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 66,
+   "Symbol": "Dy",
+   "Name": "Dysprosium",
+   "Atommasse": 234.6314,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Alkalimetall",
+   "Siedepunkt (K)": 776.42,
+   "Schmelzpunkt (K)": 1378.22,
+   "Elektronegativität": 3.54,
+   "Dichte (g": {
+      "cm³)": 4.0615
+   },
+   "Entdeckt": "Marie Curie (1898)",
+   "Oxidationszahlen": "2, 3",
+   "Gruppe": null,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 67,
+   "Symbol": "Ho",
+   "Name": "Holmium",
+   "Atommasse": 109.5311,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Erdalkalimetall",
+   "Siedepunkt (K)": 3575.39,
+   "Schmelzpunkt (K)": 1280.22,
+   "Elektronegativität": 1.74,
+   "Dichte (g": {
+      "cm³)": 9.6945
+   },
+   "Entdeckt": "Glenn T. Seaborg (1944)",
+   "Oxidationszahlen": "1, 2",
+   "Gruppe": null,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 68,
+   "Symbol": "Er",
+   "Name": "Erbium",
+   "Atommasse": 204.6341,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Nichtmetall",
+   "Siedepunkt (K)": 4519.71,
+   "Schmelzpunkt (K)": 3068.85,
+   "Elektronegativität": 1.17,
+   "Dichte (g": {
+      "cm³)": 21.6655
+   },
+   "Entdeckt": "Glenn T. Seaborg (1944)",
+   "Oxidationszahlen": "1, 2",
+   "Gruppe": null,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 69,
+   "Symbol": "Tm",
+   "Name": "Thulium",
+   "Atommasse": 143.6623,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Übergangsmetall",
+   "Siedepunkt (K)": 2660.08,
+   "Schmelzpunkt (K)": 870.33,
+   "Elektronegativität": 0.58,
+   "Dichte (g": {
+      "cm³)": 12.1062
+   },
+   "Entdeckt": "Antike",
+   "Oxidationszahlen": "-1, 0, 1",
+   "Gruppe": null,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 70,
+   "Symbol": "Yb",
+   "Name": "Ytterbium",
+   "Atommasse": 282.2243,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Nichtmetall",
+   "Siedepunkt (K)": 4520.17,
+   "Schmelzpunkt (K)": 766.22,
+   "Elektronegativität": 2.18,
+   "Dichte (g": {
+      "cm³)": 21.8545
+   },
+   "Entdeckt": "J. J. Berzelius (1828)",
+   "Oxidationszahlen": "-2",
+   "Gruppe": null,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 71,
+   "Symbol": "Lu",
+   "Name": "Lutetium",
+   "Atommasse": 1.8475,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Halbmetall",
+   "Siedepunkt (K)": 707.43,
+   "Schmelzpunkt (K)": 1776.86,
+   "Elektronegativität": 2.54,
+   "Dichte (g": {
+      "cm³)": 13.6837
+   },
+   "Entdeckt": "Glenn T. Seaborg (1944)",
+   "Oxidationszahlen": "2",
+   "Gruppe": 3,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 72,
+   "Symbol": "Hf",
+   "Name": "Hafnium",
+   "Atommasse": 85.4068,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Metall",
+   "Siedepunkt (K)": 3008.08,
+   "Schmelzpunkt (K)": 3936.63,
+   "Elektronegativität": 3,
+   "Dichte (g": {
+      "cm³)": 17.5091
+   },
+   "Entdeckt": "Lawrence Berkeley Lab (1952)",
+   "Oxidationszahlen": "1, 2",
+   "Gruppe": 4,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 73,
+   "Symbol": "Ta",
+   "Name": "Tantal",
+   "Atommasse": 214.0524,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Edelgas",
+   "Siedepunkt (K)": 779.39,
+   "Schmelzpunkt (K)": 666.71,
+   "Elektronegativität": 0.84,
+   "Dichte (g": {
+      "cm³)": 10.3599
+   },
+   "Entdeckt": "J. J. Berzelius (1828)",
+   "Oxidationszahlen": "3",
+   "Gruppe": 5,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 74,
+   "Symbol": "W",
+   "Name": "Wolfram",
+   "Atommasse": 177.8294,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Erdalkalimetall",
+   "Siedepunkt (K)": 5729.36,
+   "Schmelzpunkt (K)": 1149.11,
+   "Elektronegativität": 1.99,
+   "Dichte (g": {
+      "cm³)": 18.4459
+   },
+   "Entdeckt": "Lawrence Berkeley Lab (1952)",
+   "Oxidationszahlen": "-2",
+   "Gruppe": 6,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 75,
+   "Symbol": "Re",
+   "Name": "Rhenium",
+   "Atommasse": 230.2101,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Metall",
+   "Siedepunkt (K)": 2541.75,
+   "Schmelzpunkt (K)": 3951.92,
+   "Elektronegativität": 3.62,
+   "Dichte (g": {
+      "cm³)": 6.7289
+   },
+   "Entdeckt": "vorzeitlich bekannt",
+   "Oxidationszahlen": "2",
+   "Gruppe": 7,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 76,
+   "Symbol": "Os",
+   "Name": "Osmium",
+   "Atommasse": 220.1197,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Halogen",
+   "Siedepunkt (K)": 5992.09,
+   "Schmelzpunkt (K)": 905.53,
+   "Elektronegativität": 3.96,
+   "Dichte (g": {
+      "cm³)": 0.2827
+   },
+   "Entdeckt": "Antike",
+   "Oxidationszahlen": "2",
+   "Gruppe": 8,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 77,
+   "Symbol": "Ir",
+   "Name": "Iridium",
+   "Atommasse": 206.211,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Erdalkalimetall",
+   "Siedepunkt (K)": 1395.51,
+   "Schmelzpunkt (K)": 441.98,
+   "Elektronegativität": 1.55,
+   "Dichte (g": {
+      "cm³)": 12.6261
+   },
+   "Entdeckt": "J. J. Berzelius (1828)",
+   "Oxidationszahlen": "2",
+   "Gruppe": 9,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 78,
+   "Symbol": "Pt",
+   "Name": "Platin",
+   "Atommasse": 78.256,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Erdalkalimetall",
+   "Siedepunkt (K)": 341.4,
+   "Schmelzpunkt (K)": 3526.18,
+   "Elektronegativität": 1.39,
+   "Dichte (g": {
+      "cm³)": 6.1033
+   },
+   "Entdeckt": "vorzeitlich bekannt",
+   "Oxidationszahlen": "1",
+   "Gruppe": 10,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 79,
+   "Symbol": "Au",
+   "Name": "Gold",
+   "Atommasse": 124.8843,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Erdalkalimetall",
+   "Siedepunkt (K)": 1955.62,
+   "Schmelzpunkt (K)": 2360.76,
+   "Elektronegativität": 3.88,
+   "Dichte (g": {
+      "cm³)": 15.3355
+   },
+   "Entdeckt": "Lawrence Berkeley Lab (1952)",
+   "Oxidationszahlen": "-1",
+   "Gruppe": 11,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 80,
+   "Symbol": "Hg",
+   "Name": "Quecksilber",
+   "Atommasse": 44.6087,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Metall",
+   "Siedepunkt (K)": 3094.29,
+   "Schmelzpunkt (K)": 3677.51,
+   "Elektronegativität": 3.87,
+   "Dichte (g": {
+      "cm³)": 2.9614
+   },
+   "Entdeckt": "vorzeitlich bekannt",
+   "Oxidationszahlen": "-2",
+   "Gruppe": 12,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 81,
+   "Symbol": "Tl",
+   "Name": "Thallium",
+   "Atommasse": 189.2767,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Übergangsmetall",
+   "Siedepunkt (K)": 4604.34,
+   "Schmelzpunkt (K)": 94.64,
+   "Elektronegativität": 1.57,
+   "Dichte (g": {
+      "cm³)": 12.741
+   },
+   "Entdeckt": "Marie Curie (1898)",
+   "Oxidationszahlen": "2",
+   "Gruppe": 13,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 82,
+   "Symbol": "Pb",
+   "Name": "Blei",
+   "Atommasse": 48.6134,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Alkalimetall",
+   "Siedepunkt (K)": 1261.76,
+   "Schmelzpunkt (K)": 925.46,
+   "Elektronegativität": 3.76,
+   "Dichte (g": {
+      "cm³)": 7.8454
+   },
+   "Entdeckt": "Antike",
+   "Oxidationszahlen": "-1, 0, 1",
+   "Gruppe": 14,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 83,
+   "Symbol": "Bi",
+   "Name": "Bismut",
+   "Atommasse": 251.6621,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Halbmetall",
+   "Siedepunkt (K)": 1241.06,
+   "Schmelzpunkt (K)": 1179.9,
+   "Elektronegativität": 1.74,
+   "Dichte (g": {
+      "cm³)": 14.0531
+   },
+   "Entdeckt": "vorzeitlich bekannt",
+   "Oxidationszahlen": "-2",
+   "Gruppe": 15,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 84,
+   "Symbol": "Po",
+   "Name": "Polonium",
+   "Atommasse": 55.4766,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Alkalimetall",
+   "Siedepunkt (K)": 1032.29,
+   "Schmelzpunkt (K)": 3022.29,
+   "Elektronegativität": 1.02,
+   "Dichte (g": {
+      "cm³)": 16.642
+   },
+   "Entdeckt": "vorzeitlich bekannt",
+   "Oxidationszahlen": "3, 4, 5",
+   "Gruppe": 16,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 85,
+   "Symbol": "At",
+   "Name": "Astat",
+   "Atommasse": 25.6541,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Edelgas",
+   "Siedepunkt (K)": 1368.46,
+   "Schmelzpunkt (K)": 1679.9,
+   "Elektronegativität": 3.83,
+   "Dichte (g": {
+      "cm³)": 20.7002
+   },
+   "Entdeckt": "Antike",
+   "Oxidationszahlen": "-1",
+   "Gruppe": 17,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 86,
+   "Symbol": "Rn",
+   "Name": "Radon",
+   "Atommasse": 232.7784,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Edelgas",
+   "Siedepunkt (K)": 1433.96,
+   "Schmelzpunkt (K)": 1973.54,
+   "Elektronegativität": 1.5,
+   "Dichte (g": {
+      "cm³)": 1.7043
+   },
+   "Entdeckt": "Marie Curie (1898)",
+   "Oxidationszahlen": "3, 4, 5",
+   "Gruppe": 18,
+   "Periode": 6
+},
+ {
+   "Ordnungszahl": 87,
+   "Symbol": "Fr",
+   "Name": "Francium",
+   "Atommasse": 249.2556,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Halogen",
+   "Siedepunkt (K)": 3885.48,
+   "Schmelzpunkt (K)": 2735.75,
+   "Elektronegativität": 1.98,
+   "Dichte (g": {
+      "cm³)": 19.1843
+   },
+   "Entdeckt": "Lawrence Berkeley Lab (1952)",
+   "Oxidationszahlen": "-1",
+   "Gruppe": 1,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 88,
+   "Symbol": "Ra",
+   "Name": "Radium",
+   "Atommasse": 221.7467,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Edelgas",
+   "Siedepunkt (K)": 1977.31,
+   "Schmelzpunkt (K)": 3835.41,
+   "Elektronegativität": 1.96,
+   "Dichte (g": {
+      "cm³)": 7.9403
+   },
+   "Entdeckt": "Glenn T. Seaborg (1944)",
+   "Oxidationszahlen": "-2",
+   "Gruppe": 2,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 89,
+   "Symbol": "Ac",
+   "Name": "Actinium",
+   "Atommasse": 232.5475,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Metall",
+   "Siedepunkt (K)": 4068.23,
+   "Schmelzpunkt (K)": 2423.63,
+   "Elektronegativität": 3.89,
+   "Dichte (g": {
+      "cm³)": 3.6753
+   },
+   "Entdeckt": "vorzeitlich bekannt",
+   "Oxidationszahlen": "2, 3",
+   "Gruppe": 3,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 90,
+   "Symbol": "Th",
+   "Name": "Thorium",
+   "Atommasse": 181.3397,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Nichtmetall",
+   "Siedepunkt (K)": 373.6,
+   "Schmelzpunkt (K)": 1496.33,
+   "Elektronegativität": 3.87,
+   "Dichte (g": {
+      "cm³)": 2.1596
+   },
+   "Entdeckt": "Lawrence Berkeley Lab (1952)",
+   "Oxidationszahlen": "3, 4, 5",
+   "Gruppe": null,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 91,
+   "Symbol": "Pa",
+   "Name": "Protactinium",
+   "Atommasse": 143.9925,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Metall",
+   "Siedepunkt (K)": 4187.64,
+   "Schmelzpunkt (K)": 3363.49,
+   "Elektronegativität": 2.45,
+   "Dichte (g": {
+      "cm³)": 6.4838
+   },
+   "Entdeckt": "Glenn T. Seaborg (1944)",
+   "Oxidationszahlen": "-2",
+   "Gruppe": null,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 92,
+   "Symbol": "U",
+   "Name": "Uran",
+   "Atommasse": 31.0804,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Alkalimetall",
+   "Siedepunkt (K)": 4195.72,
+   "Schmelzpunkt (K)": 3887.28,
+   "Elektronegativität": 3.18,
+   "Dichte (g": {
+      "cm³)": 7.4639
+   },
+   "Entdeckt": "J. J. Berzelius (1828)",
+   "Oxidationszahlen": "-1",
+   "Gruppe": null,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 93,
+   "Symbol": "Np",
+   "Name": "Neptunium",
+   "Atommasse": 243.9158,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Edelgas",
+   "Siedepunkt (K)": 1223.08,
+   "Schmelzpunkt (K)": 663.79,
+   "Elektronegativität": 2.58,
+   "Dichte (g": {
+      "cm³)": 4.9614
+   },
+   "Entdeckt": "vorzeitlich bekannt",
+   "Oxidationszahlen": "2, 3",
+   "Gruppe": null,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 94,
+   "Symbol": "Pu",
+   "Name": "Plutonium",
+   "Atommasse": 81.007,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Metall",
+   "Siedepunkt (K)": 2478.1,
+   "Schmelzpunkt (K)": 175.38,
+   "Elektronegativität": 2.26,
+   "Dichte (g": {
+      "cm³)": 18.6624
+   },
+   "Entdeckt": "Glenn T. Seaborg (1944)",
+   "Oxidationszahlen": "1, 2",
+   "Gruppe": null,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 95,
+   "Symbol": "Am",
+   "Name": "Americium",
+   "Atommasse": 111.3303,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Halogen",
+   "Siedepunkt (K)": 4319.18,
+   "Schmelzpunkt (K)": 802.13,
+   "Elektronegativität": 2.58,
+   "Dichte (g": {
+      "cm³)": 11.1672
+   },
+   "Entdeckt": "J. J. Berzelius (1828)",
+   "Oxidationszahlen": "2, 3",
+   "Gruppe": null,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 96,
+   "Symbol": "Cm",
+   "Name": "Curium",
+   "Atommasse": 68.0361,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Übergangsmetall",
+   "Siedepunkt (K)": 2953.26,
+   "Schmelzpunkt (K)": 1809.24,
+   "Elektronegativität": 1.8,
+   "Dichte (g": {
+      "cm³)": 11.6865
+   },
+   "Entdeckt": "Marie Curie (1898)",
+   "Oxidationszahlen": "-2",
+   "Gruppe": null,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 97,
+   "Symbol": "Bk",
+   "Name": "Berkelium",
+   "Atommasse": 23.6329,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Erdalkalimetall",
+   "Siedepunkt (K)": 253.16,
+   "Schmelzpunkt (K)": 216.85,
+   "Elektronegativität": 3.38,
+   "Dichte (g": {
+      "cm³)": 4.9935
+   },
+   "Entdeckt": "Antike",
+   "Oxidationszahlen": "1, 2",
+   "Gruppe": null,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 98,
+   "Symbol": "Cf",
+   "Name": "Californium",
+   "Atommasse": 117.2138,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Alkalimetall",
+   "Siedepunkt (K)": 2739.38,
+   "Schmelzpunkt (K)": 3166.89,
+   "Elektronegativität": 2.76,
+   "Dichte (g": {
+      "cm³)": 9.6335
+   },
+   "Entdeckt": "Lawrence Berkeley Lab (1952)",
+   "Oxidationszahlen": "-1, 0, 1",
+   "Gruppe": null,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 99,
+   "Symbol": "Es",
+   "Name": "Einsteinium",
+   "Atommasse": 155.1203,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Halbmetall",
+   "Siedepunkt (K)": 4718.81,
+   "Schmelzpunkt (K)": 583.08,
+   "Elektronegativität": 3.86,
+   "Dichte (g": {
+      "cm³)": 13.2008
+   },
+   "Entdeckt": "Lawrence Berkeley Lab (1952)",
+   "Oxidationszahlen": "2, 3",
+   "Gruppe": null,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 100,
+   "Symbol": "Fm",
+   "Name": "Fermium",
+   "Atommasse": 200.1825,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Alkalimetall",
+   "Siedepunkt (K)": 5580.78,
+   "Schmelzpunkt (K)": 1445.81,
+   "Elektronegativität": 1.04,
+   "Dichte (g": {
+      "cm³)": 17.598
+   },
+   "Entdeckt": "vorzeitlich bekannt",
+   "Oxidationszahlen": "-1",
+   "Gruppe": null,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 101,
+   "Symbol": "Md",
+   "Name": "Mendelevium",
+   "Atommasse": 68.3567,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Edelgas",
+   "Siedepunkt (K)": 1914.01,
+   "Schmelzpunkt (K)": 3957.18,
+   "Elektronegativität": 3.64,
+   "Dichte (g": {
+      "cm³)": 12.5408
+   },
+   "Entdeckt": "Antike",
+   "Oxidationszahlen": "-1",
+   "Gruppe": null,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 102,
+   "Symbol": "No",
+   "Name": "Nobelium",
+   "Atommasse": 294.3462,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Übergangsmetall",
+   "Siedepunkt (K)": 2612.76,
+   "Schmelzpunkt (K)": 2037.73,
+   "Elektronegativität": 1.93,
+   "Dichte (g": {
+      "cm³)": 18.8545
+   },
+   "Entdeckt": "Marie Curie (1898)",
+   "Oxidationszahlen": "4",
+   "Gruppe": null,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 103,
+   "Symbol": "Lr",
+   "Name": "Lawrencium",
+   "Atommasse": 232.8557,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Erdalkalimetall",
+   "Siedepunkt (K)": 5346.03,
+   "Schmelzpunkt (K)": 521.35,
+   "Elektronegativität": 2.84,
+   "Dichte (g": {
+      "cm³)": 9.2348
+   },
+   "Entdeckt": "Lawrence Berkeley Lab (1952)",
+   "Oxidationszahlen": "4",
+   "Gruppe": 3,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 104,
+   "Symbol": "Rf",
+   "Name": "Rutherfordium",
+   "Atommasse": 257.4649,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Halogen",
+   "Siedepunkt (K)": 1955.65,
+   "Schmelzpunkt (K)": 875.14,
+   "Elektronegativität": 2.06,
+   "Dichte (g": {
+      "cm³)": 11.1455
+   },
+   "Entdeckt": "Antike",
+   "Oxidationszahlen": "2, 3",
+   "Gruppe": 4,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 105,
+   "Symbol": "Db",
+   "Name": "Dubnium",
+   "Atommasse": 191.2435,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Edelgas",
+   "Siedepunkt (K)": 2505.69,
+   "Schmelzpunkt (K)": 3257.85,
+   "Elektronegativität": 1.77,
+   "Dichte (g": {
+      "cm³)": 14.6432
+   },
+   "Entdeckt": "Antike",
+   "Oxidationszahlen": "1",
+   "Gruppe": 5,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 106,
+   "Symbol": "Sg",
+   "Name": "Seaborgium",
+   "Atommasse": 199.176,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Halogen",
+   "Siedepunkt (K)": 4920.03,
+   "Schmelzpunkt (K)": 1585.45,
+   "Elektronegativität": 3.05,
+   "Dichte (g": {
+      "cm³)": 12.3597
+   },
+   "Entdeckt": "Marie Curie (1898)",
+   "Oxidationszahlen": "-1",
+   "Gruppe": 6,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 107,
+   "Symbol": "Bh",
+   "Name": "Bohrium",
+   "Atommasse": 266.7791,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Nichtmetall",
+   "Siedepunkt (K)": 1035.25,
+   "Schmelzpunkt (K)": 3908.79,
+   "Elektronegativität": 1.68,
+   "Dichte (g": {
+      "cm³)": 16.5895
+   },
+   "Entdeckt": "Lawrence Berkeley Lab (1952)",
+   "Oxidationszahlen": "4",
+   "Gruppe": 7,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 108,
+   "Symbol": "Hs",
+   "Name": "Hassium",
+   "Atommasse": 129.5925,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Edelgas",
+   "Siedepunkt (K)": 4493.82,
+   "Schmelzpunkt (K)": 1418.96,
+   "Elektronegativität": 2.03,
+   "Dichte (g": {
+      "cm³)": 1.9021
+   },
+   "Entdeckt": "Lawrence Berkeley Lab (1952)",
+   "Oxidationszahlen": "1",
+   "Gruppe": 8,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 109,
+   "Symbol": "Mt",
+   "Name": "Meitnerium",
+   "Atommasse": 25.7875,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Alkalimetall",
+   "Siedepunkt (K)": 4588.57,
+   "Schmelzpunkt (K)": 1671.62,
+   "Elektronegativität": 1.18,
+   "Dichte (g": {
+      "cm³)": 5.3544
+   },
+   "Entdeckt": "vorzeitlich bekannt",
+   "Oxidationszahlen": "1, 2",
+   "Gruppe": 9,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 110,
+   "Symbol": "Ds",
+   "Name": "Darmstadtium",
+   "Atommasse": 206.5384,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Alkalimetall",
+   "Siedepunkt (K)": 98.72,
+   "Schmelzpunkt (K)": 3002.53,
+   "Elektronegativität": 1.11,
+   "Dichte (g": {
+      "cm³)": 1.9408
+   },
+   "Entdeckt": "vorzeitlich bekannt",
+   "Oxidationszahlen": "1, 2",
+   "Gruppe": 10,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 111,
+   "Symbol": "Rg",
+   "Name": "Roentgenium",
+   "Atommasse": 105.6199,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Alkalimetall",
+   "Siedepunkt (K)": 1530.54,
+   "Schmelzpunkt (K)": 942.78,
+   "Elektronegativität": 2.88,
+   "Dichte (g": {
+      "cm³)": 5.149
+   },
+   "Entdeckt": "Glenn T. Seaborg (1944)",
+   "Oxidationszahlen": "1, 2",
+   "Gruppe": 11,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 112,
+   "Symbol": "Cn",
+   "Name": "Copernicium",
+   "Atommasse": 205.0263,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Edelgas",
+   "Siedepunkt (K)": 3038.39,
+   "Schmelzpunkt (K)": 997.32,
+   "Elektronegativität": 3.91,
+   "Dichte (g": {
+      "cm³)": 9.7233
+   },
+   "Entdeckt": "Antike",
+   "Oxidationszahlen": "1, 2",
+   "Gruppe": 12,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 113,
+   "Symbol": "Nh",
+   "Name": "Nihonium",
+   "Atommasse": 59.1061,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Erdalkalimetall",
+   "Siedepunkt (K)": 5135.05,
+   "Schmelzpunkt (K)": 3692.92,
+   "Elektronegativität": 0.64,
+   "Dichte (g": {
+      "cm³)": 8.6104
+   },
+   "Entdeckt": "Glenn T. Seaborg (1944)",
+   "Oxidationszahlen": "-1, 0, 1",
+   "Gruppe": 13,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 114,
+   "Symbol": "Fl",
+   "Name": "Flerovium",
+   "Atommasse": 267.4569,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Edelgas",
+   "Siedepunkt (K)": 3862.4,
+   "Schmelzpunkt (K)": 871.4,
+   "Elektronegativität": 2.66,
+   "Dichte (g": {
+      "cm³)": 4.3195
+   },
+   "Entdeckt": "Marie Curie (1898)",
+   "Oxidationszahlen": "2",
+   "Gruppe": 14,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 115,
+   "Symbol": "Mc",
+   "Name": "Moscovium",
+   "Atommasse": 131.9527,
+   "Aggregatzustand": "Fest",
+   "Kategorie": "Metall",
+   "Siedepunkt (K)": 1201.38,
+   "Schmelzpunkt (K)": 2924.26,
+   "Elektronegativität": 3.57,
+   "Dichte (g": {
+      "cm³)": 3.3627
+   },
+   "Entdeckt": "Lawrence Berkeley Lab (1952)",
+   "Oxidationszahlen": "3",
+   "Gruppe": 15,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 116,
+   "Symbol": "Lv",
+   "Name": "Livermorium",
+   "Atommasse": 45.5608,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Metall",
+   "Siedepunkt (K)": 3934.51,
+   "Schmelzpunkt (K)": 3873.27,
+   "Elektronegativität": 1.85,
+   "Dichte (g": {
+      "cm³)": 9.2128
+   },
+   "Entdeckt": "Marie Curie (1898)",
+   "Oxidationszahlen": "-2",
+   "Gruppe": 16,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 117,
+   "Symbol": "Ts",
+   "Name": "Tenness",
+   "Atommasse": 260.2405,
+   "Aggregatzustand": "Flüssig",
+   "Kategorie": "Halbmetall",
+   "Siedepunkt (K)": 4883.5,
+   "Schmelzpunkt (K)": 1406.62,
+   "Elektronegativität": 2.41,
+   "Dichte (g": {
+      "cm³)": 1.2255
+   },
+   "Entdeckt": "J. J. Berzelius (1828)",
+   "Oxidationszahlen": "-1",
+   "Gruppe": 17,
+   "Periode": 7
+},
+ {
+   "Ordnungszahl": 118,
+   "Symbol": "Og",
+   "Name": "Oganesson",
+   "Atommasse": 67.0021,
+   "Aggregatzustand": "Gas",
+   "Kategorie": "Halogen",
+   "Siedepunkt (K)": 4849.68,
+   "Schmelzpunkt (K)": 3728,
+   "Elektronegativität": 2.74,
+   "Dichte (g": {
+      "cm³)": 16.4687
+   },
+   "Entdeckt": "Glenn T. Seaborg (1944)",
+   "Oxidationszahlen": "2",
+   "Gruppe": 18,
+   "Periode": 7
+}
+]

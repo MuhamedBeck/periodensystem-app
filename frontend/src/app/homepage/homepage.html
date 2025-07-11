@@ -1,0 +1,184 @@
+<div class="filter-container">
+    <!-- Suchfeld -->
+    <input type="text" [(ngModel)]="searchValue" placeholder="Suche nach Name oder Symbol..." class="search-input" />
+
+    <!-- Kategorie-Dropdown -->
+    <select [(ngModel)]="selectedKategorie" class="category-select">
+        @for (kategorie of kategorien; track kategorie) {
+        <option [value]="kategorie">{{ kategorie }}</option>}
+    </select>
+</div>
+
+<div class="periodic-table">
+    @for (el of gefilterteElements; track el.ordnungszahl) {
+    <app-element [ordnungszahl]="el.ordnungszahl" [symbol]="el.symbol" [name]="el.name" [gruppe]="el.gruppe"
+        [periode]="el.periode" [kategorie]="el.kategorie_name"
+        [gruppenFarbe]="getGruppenFarbe(el.gruppe, el.ordnungszahl)" (elementClicked)="onElementSelected($event)">
+    </app-element>}
+</div>
+
+<!-- Lanthanoide -->
+<div class="special-elements">
+    <span class="element-label">Lanthanoide</span>
+    @for (el of lanthanoide; track el.ordnungszahl) {
+    <app-element [ordnungszahl]="el.ordnungszahl" [symbol]="el.symbol" [name]="el.name" [gruppe]="el.gruppe"
+        [periode]="el.periode" [kategorie]="el.kategorie_name"
+        [gruppenFarbe]="getGruppenFarbe(el.gruppe, el.ordnungszahl)" (elementClicked)="onElementSelected($event)">
+    </app-element>}
+</div>
+
+<!-- Actinoide -->
+<div class="special-elements">
+    <span class="element-label">Actinoide</span>
+    @for (el of actinoide; track el.ordnungszahl) {
+    <app-element [ordnungszahl]="el.ordnungszahl" [symbol]="el.symbol" [name]="el.name" [gruppe]="el.gruppe"
+        [periode]="el.periode" [kategorie]="el.kategorie_name"
+        [gruppenFarbe]="getGruppenFarbe(el.gruppe, el.ordnungszahl)" (elementClicked)="onElementSelected($event)">
+    </app-element>}
+</div>
+
+<!-- Modal -->
+@if (showModal) {
+<div class="modal-backdrop" (click)="closeModal()">
+    <div class="modal-content" (click)="$event.stopPropagation()">
+        <div class="modal-header">
+            @if (!editMode) {
+            <h2>{{ selectedElement?.symbol }} – {{ selectedElement?.name }}</h2>
+            } @else {
+            <div class="edit-header">
+                <input [(ngModel)]="selectedElement!.symbol" class="edit-input-small" placeholder="Symbol" />
+                <span> – </span>
+                <input [(ngModel)]="selectedElement!.name" class="edit-input" placeholder="Name" />
+            </div>
+            }
+        </div>
+        <div class="modal-body">
+            <!-- Ordnungszahl (nicht editierbar) -->
+            <div class="detail-row">
+                <span class="label">Ordnungszahl:</span>
+                <span class="value">{{ selectedElement?.ordnungszahl }}</span>
+            </div>
+
+            <!-- Atommasse -->
+            <div class="detail-row">
+                <span class="label">Atommasse:</span>
+                @if (!editMode) {
+                <span class="value">{{ selectedElement?.atommasse }} u</span>
+                } @else {
+                <input [(ngModel)]="selectedElement!.atommasse" type="number" step="0.0001" class="edit-input" />
+                }
+            </div>
+
+            <!-- Kategorie -->
+            <div class="detail-row">
+                <span class="label">Kategorie:</span>
+                @if (!editMode) {
+                <span class="value">{{ selectedElement?.kategorie_name }}</span>
+                } @else {
+                <select [(ngModel)]="selectedElement!.kategorie_name" class="edit-select">
+                    @for (kat of kategorien; track kat) {
+                    @if (kat !== 'Alle') {
+                    <option [value]="kat">{{ kat }}</option>
+                    }
+                    }
+                </select>
+                }
+            </div>
+
+            <!-- Aggregatzustand -->
+            <div class="detail-row">
+                <span class="label">Aggregatzustand:</span>
+                @if (!editMode) {
+                <span class="value">{{ selectedElement?.aggregatzustand_name }}</span>
+                } @else {
+                <select [(ngModel)]="selectedElement!.aggregatzustand_name" class="edit-select">
+                    <option value="Fest">Fest</option>
+                    <option value="Flüssig">Flüssig</option>
+                    <option value="Gas">Gas</option>
+                </select>
+                }
+            </div>
+
+            <!-- Siedepunkt -->
+            <div class="detail-row">
+                <span class="label">Siedepunkt:</span>
+                @if (!editMode) {
+                <span class="value">{{ selectedElement?.siedepunkt }} K</span>
+                } @else {
+                <input [(ngModel)]="selectedElement!.siedepunkt" type="number" step="0.01" class="edit-input" />
+                }
+            </div>
+
+            <!-- Schmelzpunkt -->
+            <div class="detail-row">
+                <span class="label">Schmelzpunkt:</span>
+                @if (!editMode) {
+                <span class="value">{{ selectedElement?.schmelzpunkt }} K</span>
+                } @else {
+                <input [(ngModel)]="selectedElement!.schmelzpunkt" type="number" step="0.01" class="edit-input" />
+                }
+            </div>
+
+            <!-- Elektronegativität -->
+            <div class="detail-row">
+                <span class="label">Elektronegativität:</span>
+                @if (!editMode) {
+                <span class="value">{{ selectedElement?.elektronegativitaet }}</span>
+                } @else {
+                <input [(ngModel)]="selectedElement!.elektronegativitaet" type="number" step="0.01"
+                    class="edit-input" />
+                }
+            </div>
+
+            <!-- Dichte -->
+            <div class="detail-row">
+                <span class="label">Dichte:</span>
+                @if (!editMode) {
+                <span class="value">{{ selectedElement?.dichte }} g/cm³</span>
+                } @else {
+                <input [(ngModel)]="selectedElement!.dichte" type="number" step="0.0001" class="edit-input" />
+                }
+            </div>
+
+            <!-- Entdecker -->
+            <div class="detail-row">
+                <span class="label">Entdecker:</span>
+                @if (!editMode) {
+                <span class="value">{{ selectedElement?.entdecker_name }}</span>
+                } @else {
+                <input [(ngModel)]="selectedElement!.entdecker_name" class="edit-input" />
+                }
+            </div>
+
+            <!-- Entdecker -->
+            <div class="detail-row">
+                <span class="label">Oxidationszahlen:</span>
+                @if (!editMode) {
+                <span class="value">{{ selectedElement?.oxidationszahlen }}</span>
+                } @else {
+                <input [(ngModel)]="selectedElement!.oxidationszahlen" class="edit-input" />
+                }
+            </div>
+
+            <!-- Gruppe/Periode (nicht editierbar) -->
+            <div class="detail-row">
+                <span class="label">Position:</span>
+                <span class="value">
+                    Gruppe {{ selectedElement?.gruppe || '-' }},
+                    Periode {{ selectedElement?.periode }}
+                </span>
+            </div>
+        </div>
+
+        <div class="modal-footer">
+            @if (!editMode) {
+            <button class="btn-close" (click)="closeModal()">Schließen</button>
+            <button class="btn-manage" (click)="toggleEditMode()">Bearbeiten</button>
+            } @else {
+            <button class="btn-cancel" (click)="cancelEdit()">Abbrechen</button>
+            <button class="btn-save" (click)="saveChanges()">Speichern</button>
+            }
+        </div>
+    </div>
+</div>
+}

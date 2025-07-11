@@ -1,0 +1,139 @@
+.periodic-table {
+  display: grid;
+  grid-template-columns: repeat(18, 90px);  
+  grid-template-rows: repeat(7, 90px);      
+  gap: 2px;                               
+}
+
+// Modal-Hintergrund (dunkler Overlay)
+.modal-backdrop {
+  position: fixed;          // Fixiert über gesamten Viewport
+  top: 0;                   // Startet ganz oben
+  left: 0;                  // Startet ganz links
+  width: 100%;              // Volle Breite
+  height: 100%;             // Volle Höhe
+  background-color: rgba(0, 0, 0, 0.5);  // Schwarz mit 50% Transparenz
+  display: flex;            // Flexbox für Zentrierung
+  justify-content: center;  // Horizontal zentrieren
+  align-items: center;      // Vertikal zentrieren
+  z-index: 1000;           // Über allen anderen Elementen
+  animation: fadeIn 0.3s;   // Sanftes Einblenden
+}
+
+// Modal-Inhalt
+.modal-content {
+  background: white;        // Weißer Hintergrund
+  border-radius: 12px;      // Abgerundete Ecken
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);  // Schatten für Tiefe
+  max-width: 600px;         // Maximale Breite
+  width: 90%;               // 90% der Viewport-Breite (responsive)
+  max-height: 80vh;         // Max 80% der Viewport-Höhe
+  overflow: hidden;         // Versteckt Überlauf
+  animation: slideIn 0.3s;  // Slide-in Animation
+}
+
+// Modal Kopfbereich
+.modal-header {
+  background: #f5f5f5;      // Leicht grauer Hintergrund
+  padding: 20px;            // Innenabstand
+  border-bottom: 1px solid #e0e0e0;  // Trennlinie
+  display: flex;            // Flexbox für Layout
+  justify-content: space-between;     // Platz zwischen Elementen
+  align-items: center;      // Vertikal zentrieren
+  
+  h2 {
+    margin: 0;              // Kein Außenabstand
+    color: #333;            // Dunkelgraue Schrift
+    font-size: 24px;        // Schriftgröße
+  }
+  
+  .ordnungszahl-gross {
+    font-size: 32px;        // Große Schrift
+    font-weight: bold;      // Fett
+    color: #666;            // Mittelgrau
+  }
+}
+
+// Modal Körper
+.modal-body {
+  padding: 20px;            // Innenabstand
+  max-height: calc(80vh - 140px);  // Höhe minus Header/Footer
+  overflow-y: auto;         // Scrollbar wenn nötig
+  
+  .detail-row {
+    display: flex;          // Flexbox für Label-Value Paare
+    justify-content: space-between;  // Platz dazwischen
+    padding: 10px 0;        // Vertikaler Abstand
+    border-bottom: 1px solid #f0f0f0;  // Subtile Trennlinie
+    
+    &:last-child {
+      border-bottom: none;  // Keine Linie beim letzten Element
+    }
+    
+    .label {
+      font-weight: 600;     // Halbfett
+      color: #555;          // Dunkelgrau
+      flex: 0 0 200px;      // Feste Breite, wächst nicht
+    }
+    
+    .value {
+      color: #333;          // Dunkelgrau
+      text-align: right;    // Rechtsbündig
+    }
+  }
+}
+
+// Modal Fußbereich
+.modal-footer {
+  background: #f5f5f5;      // Wie Header
+  padding: 15px 20px;       // Innenabstand
+  border-top: 1px solid #e0e0e0;  // Trennlinie
+  display: flex;            // Flexbox
+  justify-content: space-between;  // Buttons rechts
+  gap: 10px;                // Abstand zwischen Buttons
+  
+  button {
+    padding: 10px 20px;     // Innenabstand
+    border: none;           // Kein Rahmen
+    border-radius: 6px;     // Abgerundete Ecken
+    font-size: 16px;        // Schriftgröße
+    cursor: pointer;        // Hand-Cursor
+    transition: all 0.2s;   // Sanfte Übergänge
+    
+    &.btn-close {
+      background: #e0e0e0;  // Grauer Hintergrund
+      color: #333;          // Dunkle Schrift
+      
+      &:hover {
+        background: #d0d0d0;  // Dunkler beim Hover
+      }
+    }
+    
+    &.btn-manage {
+      background: #007bff;  // Blauer Hintergrund
+      color: white;         // Weiße Schrift
+      
+      &:hover {
+        background: #0056b3;  // Dunkler beim Hover
+        transform: translateY(-1px);  // Leicht nach oben
+      }
+    }
+  }
+}
+
+// Animationen
+@keyframes fadeIn {
+  from { opacity: 0; }      // Start: Unsichtbar
+  to { opacity: 1; }        // Ende: Sichtbar
+}
+
+@keyframes slideIn {
+  from { 
+    transform: translateY(-50px);  // Start: 50px über Position
+    opacity: 0;             // Unsichtbar
+  }
+  to { 
+    transform: translateY(0);  // Ende: Normale Position
+    opacity: 1;             // Sichtbar
+  }
+}

@@ -14,18 +14,17 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "cors": "^...",
-    "dotenv": "^...",
-    "express": "^...",
-    "pg": "^...",
-    "@types/cors": "^...",
-    "@types/express": "^...",
-    "@types/node": "^...",
-    "@types/pg": "^..."
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "pg": "^8.16.3",    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.3",
+    "@types/node": "^24.0.12",
+        "@types/pg": "^8.15.4"
   },
   "devDependencies": {
-    "nodemon": "^...",
-    "ts-node": "^...",
-    "typescript": "^..."
+    "nodemon": "^3.1.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
   }
 }

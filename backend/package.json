@@ -7,7 +7,7 @@
     "dev": "nodemon src/index.ts",
     "build": "tsc",
     "start": "node dist/index.js",
-    "postinstall": "npm run build",
+    "postinstall": "npm run build"
   },
   "keywords": [],
   "author": "",
@@ -17,10 +17,11 @@
     "cors": "^2.8.5",
     "dotenv": "^17.2.0",
     "express": "^5.1.0",
-    "pg": "^8.16.3",    "@types/cors": "^2.8.19",
+    "pg": "^8.16.3",
+    "@types/cors": "^2.8.19",
     "@types/express": "^5.0.3",
     "@types/node": "^24.0.12",
-        "@types/pg": "^8.15.4"
+    "@types/pg": "^8.15.4"
   },
   "devDependencies": {
     "nodemon": "^3.1.10",

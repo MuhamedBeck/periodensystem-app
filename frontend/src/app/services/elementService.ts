@@ -18,10 +18,12 @@ export class ElementService {
       : 'http://localhost:3000/api/elements';
   }
 
+  // Get All Elements
   getAllElements(): Observable<IElement[]> {
     return this.http.get<IElement[]>(this.apiUrl);
   }
 
+  // Update Element nach Bearbeitung
   updateElement(ordnungszahl: number, elementData: IElement): Observable<IElement> {
     return this.http.put<IElement>(`${this.apiUrl}/${ordnungszahl}`, elementData);
   }

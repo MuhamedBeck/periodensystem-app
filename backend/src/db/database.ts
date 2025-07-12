@@ -3,6 +3,7 @@ import dotenv from 'dotenv';
 
 dotenv.config();
 
+// Database Verbindung herstellen
 const pool = new Pool({
     host: process.env.DB_HOST,
     port: parseInt(process.env.DB_PORT || '5432'),
@@ -14,6 +15,7 @@ const pool = new Pool({
     connectionTimeoutMillis: 2000,
 });
 
+// Database Verbindung testen
 export async function testConnection() {
     try {
         const client = await pool.connect();

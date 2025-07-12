@@ -35,6 +35,7 @@ export class Homepage {
     this.loadElements();
   }
 
+  // Alle Elemente laden
   private loadElements(): void {
     this.elementService.getAllElements().subscribe({
       next: (data: IElement[]) => {
@@ -55,6 +56,7 @@ export class Homepage {
 
   }
 
+  // Fitlern der Elemente
   get gefilterteElements(): IElement[] {
     return this.mainElements.filter(el => {
       const kat = el.kategorie_name || '';
@@ -70,17 +72,20 @@ export class Homepage {
     });
   }
 
+  // Show Modal wenn ein Element gewählt wird
   onElementSelected(ordnungszahl: number): void {
     this.selectedElement = this.elements.find(el => el.ordnungszahl === ordnungszahl) || null;
     this.showModal = !!this.selectedElement;
   }
 
+  // Close Modal
   closeModal(): void {
     this.showModal = false;
     this.selectedElement = null;
     this.editMode = false;
   }
 
+  // Bearbeitungsmodus aktivieren
   toggleEditMode(): void {
     if (this.selectedElement) {
       this.editMode = true;
@@ -88,6 +93,7 @@ export class Homepage {
     }
   }
 
+  // Änderungen speicheren
   saveChanges(): void {
     if (!this.selectedElement) return;
 
@@ -113,6 +119,7 @@ export class Homepage {
     });
   }
 
+  // Änderungen verwerfen
   cancelEdit(): void {
     if (this.originalElement) {
       this.selectedElement = { ...this.originalElement };
@@ -120,6 +127,7 @@ export class Homepage {
     this.editMode = false;
   }
 
+  // Die Gruppe herauslesen und die Gruppenfarbe zuweisen
   getGruppenFarbe(gruppe: number | null, ordnungszahl: number): string {
     if ([57, 71, 89, 103].includes(ordnungszahl)) return '#e0e0e0';
     if (gruppe === null) return '#e0e0e0';

@@ -1,3 +1,11 @@
+@if (isLoading) {
+<div class="loading-container">
+    <div class="loading-spinner"></div>
+    <p>Lade Elemente...</p>
+    <p class="loading-hint">Beim ersten Aufruf kann dies bis zu 30 Sekunden dauern.</p>
+</div>
+} @else {
+
 <div class="filter-container">
     <!-- Suchfeld -->
     <input type="text" [(ngModel)]="searchValue" placeholder="Suche nach Name oder Symbol..." class="search-input" />
@@ -181,4 +189,5 @@
         </div>
     </div>
 </div>
+}
 }

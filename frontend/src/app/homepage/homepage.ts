@@ -28,6 +28,8 @@ export class Homepage {
   editMode = false;
   originalElement: IElement | null = null;
 
+  isLoading = true;
+
   constructor(
     private router: Router,
     private elementService: ElementService
@@ -37,6 +39,7 @@ export class Homepage {
 
   // Alle Elemente laden
   private loadElements(): void {
+    this.isLoading = true;
     this.elementService.getAllElements().subscribe({
       next: (data: IElement[]) => {
         this.elements = data;
@@ -50,6 +53,7 @@ export class Homepage {
         console.error('Fehler beim Laden:', error);
       },
       complete: () => {
+        this.isLoading = false;
         console.log('Ladevorgang abgeschlossen');
       }
     });

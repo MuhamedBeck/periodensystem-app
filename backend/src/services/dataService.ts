@@ -98,7 +98,7 @@ function transformBackupData() {
 
         // Oxidationszahlen als Array
         oxidationszahlen: el.Oxidationszahlen
-            ? el.Oxidationszahlen.split(', ').map(n => parseInt(n.trim()))
+            ? el.Oxidationszahlen.split(', ').map((n: string) => parseInt(n.trim()))
             : []
     }));
 }
